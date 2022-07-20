@@ -19,7 +19,7 @@ from pyspark.sql import SparkSession
 
 
 print(__name__)
-print("hi")
+
 
 # In[ ]:
 
